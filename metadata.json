@@ -1,0 +1,6 @@
+{
+  "name": "iNative — Gestão de iPhones",
+  "description": "Sistema minimalista em preto e branco para gestão de compra, reparo, estoque, precificação e revenda de iPhones com lucro real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
